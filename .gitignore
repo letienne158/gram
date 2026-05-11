@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Telegram sessions
+*.session
+*.session-journal
+
+# Project data
+data/
+projects/
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
